@@ -1,1 +1,2 @@
 fastapi==0.115.14
+nepse @ git+https://github.com/sanish-alive/NepseUnofficialApi.git
